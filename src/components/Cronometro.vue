@@ -25,8 +25,9 @@ export default defineComponent({
 });
 </script>
 
-<style scoped>
+<style>
 .display {
   color: var(--texto-primario);
+  margin-right: 1rem;
 }
 </style>
