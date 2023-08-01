@@ -1,0 +1,54 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "plano de estud"
+    },
+    {
+      "id": 2,
+      "nome": "plano de estudos"
+    },
+    {
+      "nome": "sd",
+      "id": 3
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "duracaoEmSegundos": 120,
+      "descricao": "teste13",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker 3.0"
+      }
+    },
+    {
+      "duracaoEmSegundos": 5,
+      "descricao": "teste3145r",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      },
+      "id": 2
+    },
+    {
+      "duracaoEmSegundos": 0,
+      "descricao": "adas",
+      "projeto": {
+        "id": 1,
+        "nome": "plano de estud"
+      },
+      "id": 3
+    },
+    {
+      "duracaoEmSegundos": 0,
+      "descricao": "teste",
+      "projeto": {
+        "id": 2,
+        "nome": "plano de estudos"
+      },
+      "id": 4
+    }
+  ]
+}
